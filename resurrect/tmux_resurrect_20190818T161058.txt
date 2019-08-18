@@ -1,0 +1,19 @@
+pane	0	0	:zsh	1	:*	0	:/Users/naoto	1	zsh	:-zsh
+pane	1	0	:emacs-26.1	1	:*	0	:/Users/naoto	1	zsh	:-zsh
+pane	2	0	:emacs-26.1	1	:*	0	:/Users/naoto	1	zsh	:-zsh
+pane	4	0	:node	0	:-	0	:/Users/naoto/workspace/my-reminder-backend	1	node	:node /Users/naoto/.nodenv/versions/12.8.0/bin/yarn run json-server --watch ./books.json
+-zsh
+pane	4	1	:node	0	:	0	:/Users/naoto/workspace/my-reminder-frontend	0	node	:node /Users/naoto/.nodenv/versions/12.8.0/bin/yarn storybook:serve
+-zsh
+pane	4	1	:node	0	:	1	:/Users/naoto/workspace/my-reminder-frontend	1	node	:node /Users/naoto/.nodenv/versions/12.8.0/bin/yarn serve
+-zsh
+pane	4	2	:zsh	0	:	0	:/Users/naoto/.zprezto	1	zsh	:-zsh
+pane	4	3	:zsh	1	:*	0	:/Users/naoto/.tmux/plugins	1	zsh	:-zsh
+window	0	0	1	:*	afbe,139x40,0,0,1
+window	1	0	1	:*	afbf,139x40,0,0,2
+window	2	0	1	:*	afc0,139x40,0,0,3
+window	4	0	0	:-	5813,139x40,0,0,14
+window	4	1	0	:	10ef,139x40,0,0[139x19,0,0,8,139x20,0,20,7]
+window	4	2	0	:	5815,139x40,0,0,16
+window	4	3	1	:*	5813,139x40,0,0,33
+state	4	
